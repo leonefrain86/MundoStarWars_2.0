@@ -1,0 +1,9 @@
+C:\Users\efrainleon\Desktop\MundoStarWars\LibreriaMundoStarWars\bin\Debug\netstandard2.0\LibreriaMundoStarWars.deps.json
+C:\Users\efrainleon\Desktop\MundoStarWars\LibreriaMundoStarWars\bin\Debug\netstandard2.0\LibreriaMundoStarWars.dll
+C:\Users\efrainleon\Desktop\MundoStarWars\LibreriaMundoStarWars\bin\Debug\netstandard2.0\LibreriaMundoStarWars.pdb
+C:\Users\efrainleon\Desktop\MundoStarWars\LibreriaMundoStarWars\obj\Debug\netstandard2.0\LibreriaMundoStarWars.csprojAssemblyReference.cache
+C:\Users\efrainleon\Desktop\MundoStarWars\LibreriaMundoStarWars\obj\Debug\netstandard2.0\LibreriaMundoStarWars.csproj.CoreCompileInputs.cache
+C:\Users\efrainleon\Desktop\MundoStarWars\LibreriaMundoStarWars\obj\Debug\netstandard2.0\LibreriaMundoStarWars.AssemblyInfoInputs.cache
+C:\Users\efrainleon\Desktop\MundoStarWars\LibreriaMundoStarWars\obj\Debug\netstandard2.0\LibreriaMundoStarWars.AssemblyInfo.cs
+C:\Users\efrainleon\Desktop\MundoStarWars\LibreriaMundoStarWars\obj\Debug\netstandard2.0\LibreriaMundoStarWars.dll
+C:\Users\efrainleon\Desktop\MundoStarWars\LibreriaMundoStarWars\obj\Debug\netstandard2.0\LibreriaMundoStarWars.pdb
