@@ -113,8 +113,6 @@ namespace ConsolaMundoStarWars
             informePersonaje(otroGuerrero);
             Console.WriteLine();
             Console.WriteLine("----------------------------------------------------");
-            Console.WriteLine("Informe de robos:");
-            Console.WriteLine();
             unGuerrero.robarArmaMax(otroGuerrero);
             unGuerrero.robarArmaMax(otroGuerrero);
             unGuerrero.robarArmaMax(otroGuerrero);

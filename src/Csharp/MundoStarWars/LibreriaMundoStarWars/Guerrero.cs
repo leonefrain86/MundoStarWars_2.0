@@ -20,11 +20,6 @@ namespace LibreriaMundoStarWars
             {
                 this.alzarArma(personaje.perderArmaMax());
                 personaje.actualizarValores();
-                Console.WriteLine("¡Robado con exito! --max respect--");
-            }
-            else
-            {
-                Console.WriteLine("¡Fracaso el robo! --mision fracase--");
             }
         }
 
@@ -48,8 +43,6 @@ namespace LibreriaMundoStarWars
             {
                 this.faccion = "Alianza Rebelde";
             }
-        
-            Console.WriteLine("¡Cambio realizado con exito!");
         }
     }
 }

@@ -63,6 +63,5 @@ namespace LibreriaMundoStarWars
             this.estaEnVehiculo(personaje);
             personajes.Remove(personaje);
         }
-
     }
 }
